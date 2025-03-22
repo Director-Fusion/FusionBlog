@@ -37,12 +37,14 @@ header p {
   color: #6c757d;
 }
 
-.logo{
+.logo img {
 	display: block;
 	margin: 0 auto;
 	max-width: 100%;
 	width: 420px;
 	height: 98px;
+  	box-shadow: none !important;	
+	filter: none !important;
 }
 
 /* Wrapper adjustments */
