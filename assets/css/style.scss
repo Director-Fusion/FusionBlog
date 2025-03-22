@@ -38,7 +38,9 @@ header p {
   color: #f8f9fa;
 }
 
-.logo {
+.logo img {
+	box-shadow: none;
+	filter: none;
 	width: 520px;
 	height: 118px;
 	display: block;
