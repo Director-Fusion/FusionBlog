@@ -4,8 +4,16 @@
 @import "jekyll-theme-slate";
 @import url("https://fusioncybersecurity.us/css/style.css");
 
+:root {
+	--primary: #1c262f;
+	--primary-light: #212d37;
+	--secondary: #0ee951;
+	--tertiary: #00dabf;
+	--gradient: linear-gradient(to right, #0ee951, #00dabf);
+}
+
 /* General adjustments */
-body {
+#main-content, body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   color: #333;
