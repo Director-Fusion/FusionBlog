@@ -4,88 +4,70 @@
 @import "jekyll-theme-slate";
 @import url("https://fusioncybersecurity.us/css/style.css");
 
-/* Header */
-#header_wrap {
-  background-color: #1c262f;
-  color: #ffffff;
+/* General adjustments */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
 }
 
-#project_title {
-  color: #0ee951;
-  font-size: 2.5rem;
-  margin-bottom: 0.5rem;
-}
-
-#project_tagline {
-  color: #d1d5db;
-  font-size: 1.3rem;
-  margin-top: 0;
-}
-
-#forkme_banner {
-  background-color: #0ee951;
-  color: #0a1422;
-  padding: 6px 10px;
-  border-radius: 4px;
-  text-decoration: none;
-}
-
-#forkme_banner:hover {
-  background-color: #212d37;
-}
-
-/* Download buttons */
-#downloads a {
-  display: inline-block;
-  background-color: #1f2937;
-  color: #0ee951;
-  padding: 8px 12px;
-  margin: 5px;
-  border: 1px solid #0ee951;
-  border-radius: 5px;
-  text-decoration: none;
-}
-
-#downloads a:hover {
-  background-color: #0ee951;
-  color: #0a1422;
-}
-
-/* Main Content */
-#main_content_wrap {
-  background-color: #212d37;
-  color: #e5e7eb;
-}
-
-#main_content h1,
-#main_content h2,
-#main_content h3 {
-  color: #0ee951;
-}
-
-#main_content a {
-  color: #0ee951;
-  text-decoration: underline;
-}
-
-#main_content a:hover {
-  color: #212d37;
-}
-
-/* Footer */
-#footer_wrap {
-  background-color: #0a1422;
-  color: #9ca3af;
-  text-align: center;
+/* Header styles */
+header {
+  background-color: #f8f9fa;
   padding: 20px 0;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+header p {
+  margin: 5px 0 0;
+  font-size: 1.2rem;
+  color: #6c757d;
+}
+
+/* Wrapper adjustments */
+.wrapper {
+  width: 90%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Post list styles */
+.post-list {
+  list-style: none;
+  padding: 0;
+}
+
+.post-list li {
+  border-bottom: 1px solid #e9ecef;
+  padding: 20px 0;
+}
+
+.post-meta {
+  display: block;
+  color: #6c757d;
   font-size: 0.9rem;
 }
 
-#footer_wrap a {
-  color: #0ee951;
+.post-link {
+  color: #007bff;
   text-decoration: none;
+  font-size: 1.5rem;
 }
 
-#footer_wrap a:hover {
+.post-link:hover {
   text-decoration: underline;
+}
+
+/* Footer styles */
+.site-footer {
+  background-color: #f8f9fa;
+  padding: 20px 0;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #6c757d;
 }
