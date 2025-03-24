@@ -19,4 +19,7 @@ Thank you for stopping by. Whether you're a fellow practitioner, a small busines
 
 Check out my most recent research contributions. It ain't much but it is honest work. [SANS Technology Institute Research Paper][sans-research]
 
+Visit us! [Fusion Cyber Security MDR][fusioncybermdr]
+
 [sans-research]: https://www.sans.edu/cyber-research/beyond-detection-using-real-phishing-data-gauge-security-training-program-success/
+[fusioncybermdr] https://fusioncybersecurity.us
