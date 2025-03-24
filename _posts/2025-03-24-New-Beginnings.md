@@ -5,8 +5,6 @@ date: 2025-03-24
 author: Cory Keller
 ---
 
-# New Beginnings 
-
 Hello, I’m Cory Keller, the founder and CEO of our Fusion Cyber Security MDR. I’ve spent my career in roles such as Penetration Tester, Incident Response Analyst, and Security Engineer. These experiences have taken me to some incredible places, both literally and professionally, and I’ve been fortunate to learn a great deal from real-world challenges and talented peers along the way.
 
 This blog marks a fresh start. While I’ve written before, past content has been lost, and rather than dwell on that, I see it as an opportunity to build something better. This space will be a mix of technical insights, lessons learned, and reflections on the evolving world of cybersecurity. It’s a place for continuous learning — for myself, for our team, and for anyone looking to grow their understanding of this field.
