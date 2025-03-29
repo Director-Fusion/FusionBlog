@@ -20,4 +20,4 @@ Check out my most recent research contributions. It ain't much but it is honest 
 Visit us! [Fusion Cyber Security MDR][fusioncybermdr]
 
 [sans-research]: https://www.sans.edu/cyber-research/beyond-detection-using-real-phishing-data-gauge-security-training-program-success/
-[fusioncybermdr] https://fusioncybersecurity.us
+[fusioncybermdr]: https://fusioncybersecurity.us
